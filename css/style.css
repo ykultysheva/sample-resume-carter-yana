@@ -1,23 +1,27 @@
 body {
 
-	background-image: url('../img/jays.png');
-	background-size: 30px;
-	color: black;
-	font: 900 italic 20px Raleway, Arial, Helvectica, sans-serif;
+	background-image: #EEE;
+	color: 222;
+	font: 900 italic 18px Raleway, Arial, Helvectica, sans-serif;
+}
+
+h1 {
+	font-size: 48px;
 }
 
 section {
-	background-color: red;
+	border-top: 1px solid #66;
 }
 
 .objective {
-	background-color: green;
 }
 
 .first {
+}
+
+.highlight {
 	background-color: blue;
 }
 
 #oliver {
-	background-color: yellow
 }
