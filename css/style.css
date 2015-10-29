@@ -1,0 +1,23 @@
+body {
+
+	background-image: url('../img/jays.png');
+	background-size: 30px;
+	color: black;
+	font: 900 italic 20px Raleway, Arial, Helvectica, sans-serif;
+}
+
+section {
+	background-color: red;
+}
+
+.objective {
+	background-color: green;
+}
+
+.first {
+	background-color: blue;
+}
+
+#oliver {
+	background-color: yellow
+}
